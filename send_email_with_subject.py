@@ -67,4 +67,10 @@ s.sendmail(fromaddr, toaddr, text)
 		       
    # terminating the session
 s.quit()
-		       
+# The word teacher can apply to many different people. In an official, formalized setting, a teacher is anyone who has been employed as an educator in a school or university.
+
+# However, we can choose to apply the word teacher to anyone who has taught us anything.
+
+# For instance, we might refer to any wise person who provides us with moral guidance as our teacher.
+
+# Teachers are very important in our lives. Some of the key reasons why this is are outlined below.	       
