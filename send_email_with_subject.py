@@ -74,3 +74,7 @@ s.quit()
 # For instance, we might refer to any wise person who provides us with moral guidance as our teacher.
 
 # Teachers are very important in our lives. Some of the key reasons why this is are outlined below.	       
+Online Self Learning Courses are designed for self-directed training, allowing participants to begin at
+their convenience with structured training and review exercises to reinforce learning. 
+You'll learn through videos, PPTs and complete assignments, projects and other activities designed to enhance 
+learning outcomes, all at times that are most convenient to you
