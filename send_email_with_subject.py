@@ -87,3 +87,9 @@ learning outcomes, all at times that are most convenient to you
   8 message = "i am manish"
   9 s.sendmail("maneesh@ekagga.com", "manishraj9214@gmail.com", message)
  10 s.quit()
+	
+	Hope you like the Features of Python Programming Tutorial.
+
+If you have any query regarding the features of python programming language, drop a comment below and we will get back to you.
+
+Refer Top Python Books to deep dive into the Python Programming.
