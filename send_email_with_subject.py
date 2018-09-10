@@ -78,3 +78,12 @@ Online Self Learning Courses are designed for self-directed training, allowing p
 their convenience with structured training and review exercises to reinforce learning. 
 You'll learn through videos, PPTs and complete assignments, projects and other activities designed to enhance 
 learning outcomes, all at times that are most convenient to you
+ Python code to illustrate Sending mail from 
+  3 # your Gmail account 
+  4 import smtplib
+  5 s = smtplib.SMTP('smtp.gmail.com', 587)
+  6 s.starttls()
+  7 s.login("maneesh@ekagga.com", "7577012050")
+  8 message = "i am manish"
+  9 s.sendmail("maneesh@ekagga.com", "manishraj9214@gmail.com", message)
+ 10 s.quit()
